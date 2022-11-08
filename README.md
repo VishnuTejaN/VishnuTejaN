@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @VishnuTejaN
 - I'm a Mechanical Engineer
-- 👀 I’m interested in Robotics and AI
+- I’m interested in Robotics and AI
 <!---
+👀 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
